@@ -128,7 +128,5 @@ public class problem3 {
                 }
             break;
         }
-
-
     }
 }
